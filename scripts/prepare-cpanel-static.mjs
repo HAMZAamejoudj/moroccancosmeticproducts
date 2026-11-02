@@ -61,7 +61,8 @@ RewriteCond %{HTTPS} !=on
 RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
 
 # Home -> English
-RewriteRule ^$ /en/ [R=302,L]
+# Home -> English (301 Permanent Redirect)
+RewriteRule ^$ /en/ [R=301,L]
 
 # Add trailing slash for locale roots
 RewriteRule ^(en|fr|ar)$ /$1/ [R=301,L]

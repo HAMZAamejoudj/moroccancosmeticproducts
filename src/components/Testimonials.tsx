@@ -153,10 +153,10 @@ export default function Testimonials() {
 
               <div className="pt-4 border-t border-primary/10 flex items-center justify-between">
                 <div>
-                  <h4 className="text-sm font-bold text-primary flex items-center gap-1.5">
+                  <span className="text-sm font-bold text-primary flex items-center gap-1.5">
                     <span>{rev.name}</span>
                     <CheckCircle2 className="w-3.5 h-3.5 text-accent" />
-                  </h4>
+                  </span>
                   <p className="text-[11px] text-primary/60 mt-0.5">{rev.role}</p>
                 </div>
               </div>

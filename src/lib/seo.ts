@@ -37,7 +37,8 @@ export const publicRoutes = [
 ];
 
 export function localizedPath(locale: Locale, path: string) {
-  return `/${locale}${path}`;
+  const clean = path ? (path.startsWith("/") ? path : `/${path}`).replace(/\/$/, "") : "";
+  return `/${locale}${clean}/`;
 }
 
 export function absoluteUrl(locale: Locale, path: string) {

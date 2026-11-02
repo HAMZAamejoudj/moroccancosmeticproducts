@@ -24,10 +24,10 @@ export default function WhyChooseUs() {
         : "Natural Moroccan Beauty for Your Brand",
     description:
       locale === "fr"
-        ? "En direct de nos laboratoires certifiés et des coopératives féminines au Maroc, nous produisons et exportons des ingrédients cosmétiques biologiques d'exception pour valoriser votre marque."
+        ? "En tant que premier fournisseur de produits de beauté bio en gros directement du Maroc, nous produisons et exportons des ingrédients cosmétiques certifiés pour valoriser le prestige et l'efficacité de votre marque."
         : locale === "ar"
-        ? "مباشرة من مختبراتنا المعتمدة والتعاونيات النسائية في المغرب، نقوم بتصنيع وتصدير مكونات تجميلية عضوية فائقة النقاء تضمن نجاح علامتك التجارية."
-        : "Direct from Morocco's certified laboratories and women's cooperatives, we produce and export authentic organic cosmetic ingredients that elevate your brand's prestige and efficacy.",
+        ? "بصفتنا المورد والمصنع الأول لمنتجات التجميل العضوية بالجملة مباشرة من المغرب، نقوم بتصنيع وتصدير مكونات تجميلية طبيعية معتمدة تضمن نجاح وتميز علامتك التجارية."
+        : "As Morocco's leading wholesale organic beauty supplier, we produce and export authentic certified cosmetic products from Morocco direct from our laboratories and women's cooperatives to elevate your brand's prestige and efficacy.",
     cta:
       locale === "fr"
         ? "En Savoir Plus Sur Nous"
@@ -145,9 +145,7 @@ export default function WhyChooseUs() {
                     <Check className="w-5 h-5 stroke-[2.5]" />
                   </div>
                   <div>
-                    <h3 className="font-bold text-primary text-base sm:text-lg mb-1">
-                      {feat.title}
-                    </h3>
+                    <p className="font-bold text-primary text-base sm:text-lg mb-1">{feat.title}</p>
                     <p className="text-xs sm:text-sm text-primary/70 leading-relaxed">
                       {feat.desc}
                     </p>

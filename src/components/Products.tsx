@@ -172,7 +172,7 @@ export default function Products() {
                     href={`/${locale}/products/${product.slug}`}
                     className="inline-flex items-center gap-2 text-xs sm:text-sm font-bold text-primary group-hover:text-accent transition-colors"
                   >
-                    <span>{sectionContent.viewDetails}</span>
+                    <span>{sectionContent.viewDetails}</span><span className="sr-only"> - {product.title}</span>
                     <ArrowRight
                       className={`w-4 h-4 transition-transform group-hover:translate-x-1 ${
                         locale === "ar" ? "rotate-180" : ""

@@ -118,25 +118,25 @@ export default function Footer() {
 
           {/* Column 2: Payment Methods */}
           <div className="flex flex-col items-start text-start">
-            <h3 className="text-lg font-serif font-bold mb-6 text-cream border-s-2 border-accent ps-3">
+            <p className="text-lg font-serif font-bold mb-6 text-cream border-s-2 border-accent ps-3">
               {paymentTitle}
-            </h3>
+            </p>
             <FooterLogoCard src="/image/payment-methods.webp" alt={paymentTitle} width={208} height={213} />
           </div>
 
           {/* Column 3: Logistics Partners */}
           <div className="flex flex-col items-start text-start">
-            <h3 className="text-lg font-serif font-bold mb-6 text-cream border-s-2 border-accent ps-3">
+            <p className="text-lg font-serif font-bold mb-6 text-cream border-s-2 border-accent ps-3">
               {partnersTitle}
-            </h3>
+            </p>
             <FooterLogoCard src="/image/shipping-partners.webp" alt={partnersTitle} width={208} height={213} />
           </div>
 
           {/* Column 4: Contact Info */}
           <div className="flex flex-col items-start text-start space-y-6">
-            <h3 className="text-lg font-serif font-bold mb-6 text-cream border-s-2 border-accent ps-3">
+            <p className="text-lg font-serif font-bold mb-6 text-cream border-s-2 border-accent ps-3">
               {dict.Footer.contact_info}
-            </h3>
+            </p>
             <ul className="space-y-4 text-sm text-cream/80 w-full">
               <li className="flex items-start gap-3 text-start">
                 <MapPin className="h-5 w-5 text-accent shrink-0 mt-0.5" />

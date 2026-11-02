@@ -137,9 +137,7 @@ export default function PrivateLabel() {
                       <Icon className="w-4 h-4" />
                     </div>
                     <div>
-                      <h4 className="text-xs sm:text-sm font-bold text-primary mb-1">
-                        {chip.title}
-                      </h4>
+                      <span className="text-xs sm:text-sm font-bold text-primary mb-1 block">{chip.title}</span>
                       <p className="text-[11px] sm:text-xs text-primary/65 leading-relaxed">
                         {chip.desc}
                       </p>
