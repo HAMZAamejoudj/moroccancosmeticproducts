@@ -1,0 +1,433 @@
+{
+  "Navbar": {
+    "home": "Home",
+    "about": "About Us",
+    "benefits": "Benefits",
+    "blog": "Blog",
+    "contact": "Contact",
+    "whatsapp": "WhatsApp",
+    "language": "Language"
+  },
+  "Hero": {
+    "badge": "100% Natural Moroccan Beauty Products",
+    "title_part1": "Looking for a Trusted",
+    "title_part2": "Moroccan Beauty Supplier?",
+    "description": "Welcome to Moroccan Cosmetic Products, your reliable source for premium Moroccan beauty products wholesale, designed for spas, brands, and retailers worldwide. Whether you’re searching for bulk argan oil, prickly pear seed oil, Moroccan black soap, or natural skincare products, we deliver authentic, eco-friendly, and certified ingredients directly from Morocco. Our mission is simple: provide top-quality products at reasonable prices, while helping your brand thrive in the global beauty market.",
+    "cta_shop": "Shop Now",
+    "cta_explore": "Explore Products"
+  },
+  "WhyChooseUs": {
+    "badge": "Why Choose Us",
+    "title_part1": "Why Choose",
+    "title_part2": "Moroccan Cosmetic Products",
+    "title_punct": "",
+    "features": [
+      {
+        "title": "Full Manufacturer Control",
+        "desc": "Direct manufacturer ensuring purity, authenticity, and competitive wholesale prices without intermediaries."
+      },
+      {
+        "title": "Certified and Trusted",
+        "desc": "Backed by ISO, ECOCERT, CoA, and SDS documentation, ensuring safety and compliance."
+      },
+      {
+        "title": "Private Label Solutions",
+        "desc": "Custom branding, packaging, and formulations to help your beauty line thrive."
+      },
+      {
+        "title": "Eco-Friendly and Sustainable",
+        "desc": "Organic, cruelty-free, and responsibly sourced using cold-pressed and natural extraction methods."
+      },
+      {
+        "title": "Global Shipping and Logistics",
+        "desc": "Safe, reliable, and timely worldwide delivery directly to your spa, store, or warehouse."
+      }
+    ],
+    "footer_text": "Our direct manufacturing process allows us to offer reasonable prices on bulk orders, without cutting corners on purity, sustainability, or certification. We make premium Moroccan beauty products accessible to businesses of all sizes.",
+    "badges": {
+      "products": "Products",
+      "certified": "Certified",
+      "compliant": "Compliant"
+    }
+  },
+  "Products": {
+    "badge": "Our Products",
+    "title_part1": "Our Moroccan",
+    "title_part2": "Organic Products",
+    "description": "We offer Cosmetic and Food-Grade Argan Oil, Prickly Pear Seed Oil, Nila Powder, Aker Fassi, Essential Oils, Black Soap, Natural Soap, Ghassoul, Kessa Gloves, and Rose Water. Every formula is certified, sustainable, and effective, designed for bulk purchase and private label branding.",
+    "items": [
+      {
+        "title": "Argan Oil Wholesale",
+        "desc": "100% pure, organic, and nutrient-rich. Perfect for skincare, haircare, and cosmetic formulations."
+      },
+      {
+        "title": "Prickly Pear Seed Oil",
+        "desc": "High antioxidant content, organic, and eco-certified. Ideal for anti-aging serums and facial oils."
+      },
+      {
+        "title": "Moroccan Black Soap",
+        "desc": "Crafted using traditional methods. Perfect for exfoliation, detoxification, and rejuvenating spa treatments."
+      },
+      {
+        "title": "Natural Skincare Products",
+        "desc": "From masks and serums to creams and lotions, combining Moroccan ingredients with modern science."
+      },
+      {
+        "title": "Ghassoul and Traditional Powders",
+        "desc": "Nila Powder, Aker Fassi, and Moroccan Clay for authentic face masks and premium spa treatments."
+      },
+      {
+        "title": "Floral Waters and Accessories",
+        "desc": "Pure Damascena Rose Water, Orange Blossom Water, Natural Soaps, and Kessa Gloves."
+      }
+    ]
+  },
+  "Sustainability": {
+    "badge": "Our Commitment",
+    "title_part1": "Sustainability &",
+    "title_part2": "Social Responsibility",
+    "certifications_title": "Certifications That Matter",
+    "certifications_desc": "We know international buyers value trust and transparency. That’s why every product is backed by:",
+    "certifications_list": [
+      "ISO – International quality standards",
+      "ECOCERT – Organic certification for sustainable sourcing",
+      "CoA – Ensuring purity and quality",
+      "SDS – Safety and handling compliance"
+    ],
+    "certifications_footer": "These certifications make Moroccan Cosmetic Products a reliable partner for brands worldwide.",
+    "pricing_title": "Affordable Pricing Without Compromise",
+    "pricing_desc": "Quality doesn’t have to come at a premium. Our direct manufacturing process allows us to offer reasonable prices on bulk orders, without cutting corners on purity, sustainability, or certification. We make premium Moroccan beauty products accessible to businesses of all sizes.",
+    "quote": "Preserving heritage, empowering communities."
+  },
+  "Shop": {
+    "badge": "Online Store",
+    "title_part1": "Why",
+    "title_part2": "Moroccan Ingredients",
+    "title_punct": "?",
+    "description": "Morocco is globally renowned for its unique, nutrient-rich ingredients. By sourcing directly, we preserve authenticity. Moroccan Cosmetic Products makes it simple to scale your retail line:",
+    "bullets": [
+      "Bulk Orders – Order the quantities you need with ease",
+      "Private Label – Customize branding for your product line",
+      "Worldwide Shipping – Receive products anywhere, on time",
+      "Certified Quality – ISO, ECOCERT, CoA, and SDS guaranteed"
+    ],
+    "footer_bold": "Contact us today and experience the best of Moroccan beauty with a reliable, eco-friendly supplier.",
+    "cta_whatsapp": "WhatsApp",
+    "cta_email": "Email Us",
+    "happy_customers": "Happy Customers"
+  },
+  "About": {
+    "hero_title_part1": "About",
+    "hero_title_part2": "Moroccan Cosmetic Products",
+    "hero_subtitle": "Your Trusted Moroccan Beauty Products Manufacturer and Supplier",
+    "intro_badge": "Who We Are",
+    "intro_title_part1": "Passionate About",
+    "intro_title_part2": "Authentic Beauty",
+    "intro_text": "At Moroccan Cosmetic Products, we are passionate about bringing the finest Moroccan beauty products to businesses, spas, and brands worldwide. With decades of experience in manufacturing, sourcing, and quality control, we specialize in providing bulk and private label solutions for professional use.",
+    "mission_title": "Our Mission",
+    "mission_text": "We aim to deliver authentic, eco-friendly, and premium Moroccan ingredients that empower beauty brands and wellness businesses globally. Our goal is to combine sustainability with high-quality production, ensuring every product is effective, certified, and safe for both your customers and the environment.",
+    "offer_title_part1": "What We",
+    "offer_title_part2": "Offer",
+    "offers": [
+      {
+        "title": "Premium Moroccan Ingredients",
+        "desc": "Including argan oil, prickly pear seed oil, Moroccan black soap, and natural skincare products."
+      },
+      {
+        "title": "Bulk Orders and Private Label",
+        "desc": "Flexible solutions for spas, retailers, and brands looking to scale with quality."
+      },
+      {
+        "title": "Global Shipping",
+        "desc": "Fast, reliable, and secure delivery to any part of the world."
+      },
+      {
+        "title": "Certified Quality",
+        "desc": "All products are backed by ISO, ECOCERT, CoA, and SDS certifications. ONSSA approved."
+      }
+    ],
+    "why_title_part1": "Why",
+    "why_title_part2": "Choose Us?",
+    "reasons": [
+      {
+        "title": "Direct Manufacturing",
+        "desc": "From sourcing to packaging, we maintain full control over product quality."
+      },
+      {
+        "title": "Sustainability",
+        "desc": "Our products are organic, cruelty-free, and eco-friendly, made using traditional and modern methods."
+      },
+      {
+        "title": "Custom Branding",
+        "desc": "Private label services allow your brand to shine with custom logos, packaging, and formulas."
+      },
+      {
+        "title": "Expert Support",
+        "desc": "Our team guides you through product selection, certifications, and shipping, ensuring a smooth buying experience."
+      }
+    ],
+    "vision_title": "Our Vision",
+    "vision_text": "We envision a world where Moroccan beauty products are recognized globally for their purity, effectiveness, and sustainability. By partnering with Moroccan Cosmetic Products, brands and spas can offer high-quality, authentic Moroccan skincare solutions while supporting ethical and eco-friendly practices.",
+    "network_title": "Join Our Network",
+    "network_text": "Whether you are a spa, beauty brand, or retailer, Moroccan Cosmetic Products provides the trusted, reliable, and certified products you need to grow your business.",
+    "cta": "Contact Us Today"
+  },
+  "Benefits": {
+    "badge": "Wholesale and Private Label",
+    "hero_title_part1": "Benefits of",
+    "hero_title_part2": "Moroccan Beauty Products for Private Label Brands",
+    "intro_p1": "Looking for natural Moroccan beauty products for your brand, spa, or online store? Our collection includes cosmetic argan oil, prickly pear seed oil, Nila powder, Aker Fassi, Moroccan black soap, natural soap, ghassoul clay, Kessa gloves, and rose water.",
+    "intro_p2": "Moroccan beauty ingredients are valued for their natural origin, traditional use, and high cosmetic quality — ideal for eco-friendly skincare, hammam products, spa rituals, and clean beauty collections.",
+    "card_cta": "Request Wholesale Quote",
+    "outro_title": "Build Your Private Label Moroccan Beauty Brand",
+    "outro_p1": "Moroccan Cosmetic Products helps businesses create ready-to-sell Moroccan beauty products for private label and wholesale. With a low MOQ starting from 50 pieces, you can add your logo, customize your packaging, and launch your products on TikTok Shop, Amazon, Shopify, Etsy, or your own online store.",
+    "outro_p2": "Our products are ideal for beauty brands, spas, retailers, wellness businesses, and e-commerce sellers looking for authentic Moroccan cosmetic products in bulk. We offer certified products, worldwide shipping, reasonable prices, and professional support for your private label project.",
+    "cta_box_title": "Looking for a Reliable Moroccan Wholesale Supplier?",
+    "cta_box_text": "If you are looking for a trusted Moroccan supplier for private label beauty products, we are ready to help. Choose your products, add your logo, prepare your packaging, and start selling premium Moroccan beauty products under your own brand.",
+    "cta_button": "Start Your Private Label Journey",
+    "items": [
+      {
+        "title": "Cosmetic Argan Oil",
+        "shortDesc": "Morocco's liquid gold — rich in Vitamin E and fatty acids for skin and hair.",
+        "content": "Cosmetic argan oil is rich in vitamin E, essential fatty acids, and nourishing compounds ideal for skincare and haircare. Lightweight and versatile, it suits facial oils, hair serums, massage oils, and luxury skincare formulas. Perfect for private label brands targeting natural beauty, clean skincare, and Moroccan-inspired cosmetics."
+      },
+      {
+        "title": "Food-Grade Argan Oil",
+        "shortDesc": "Premium culinary argan oil with a rich nutty taste and natural fatty acids.",
+        "content": "Food-grade argan oil uses roasted argan kernels, giving a rich nutty taste. Ideal for gourmet brands, wellness stores, and organic shops. It can be used in salads, dips, and traditional Moroccan recipes. Perfect for private label businesses entering the food and wellness market."
+      },
+      {
+        "title": "Prickly Pear Seed Oil",
+        "shortDesc": "Ultra-luxurious rare oil loaded with antioxidants and Vitamin E.",
+        "content": "Prickly pear seed oil is one of Morocco's most luxurious oils. Lightweight yet deeply nourishing, it's perfect for premium facial oils, anti-aging serums, eye care, and luxury skincare. Its high perceived value makes it excellent for private label brands seeking a premium positioning."
+      },
+      {
+        "title": "Nila Powder",
+        "shortDesc": "Traditional Moroccan blue powder for face masks and brightening rituals.",
+        "content": "Nila powder is a traditional Moroccan beauty ingredient with a striking blue color, used in hammam and skincare rituals. It refreshes the skin and supports a luminous complexion. Its unique color makes it viral-worthy for TikTok, Instagram, and e-commerce platforms."
+      },
+      {
+        "title": "Aker Fassi",
+        "shortDesc": "Deep red Moroccan beauty powder — natural lip tint, cheek tint and mask.",
+        "content": "Aker Fassi is made from poppy flower and pomegranate peel. Its natural deep red color connects beauty with Moroccan tradition. Perfect as a natural lip tint, cheek tint, or mask ingredient. Highly visual for social media marketing and Moroccan beauty ritual kits."
+      },
+      {
+        "title": "Moroccan Black Soap",
+        "shortDesc": "The cornerstone of every hammam ritual — deep cleansing olive paste.",
+        "content": "Moroccan black soap is essential for the traditional hammam ritual. Made from olive-based ingredients with a soft paste texture, it prepares the skin for exfoliation with a Kessa glove. Ideal for spas, body care brands, and hammam product collections. Sold in jars, tubes, or bulk."
+      },
+      {
+        "title": "Natural Soap",
+        "shortDesc": "Customizable Moroccan soaps with argan oil, rose, ghassoul and more.",
+        "content": "Natural Moroccan soaps are crafted with argan oil, olive oil, rose, lavender, ghassoul, honey, or essential oils. Easy to brand and package, they suit Amazon, Shopify, TikTok Shop, spas, and gift shops. Ideal for eco-friendly brands with plastic-free packaging options."
+      },
+      {
+        "title": "Ghassoul Clay",
+        "shortDesc": "Mineral-rich Moroccan clay for deep skin and hair cleansing.",
+        "content": "Ghassoul (Rhassoul) clay is a natural Moroccan clay valued for its cleansing and absorbing properties. Used as a face mask, hair mask, or body mask. Available as powder, paste, or formula. Perfect for spa treatments, hammam products, and natural skincare brands."
+      },
+      {
+        "title": "Kessa Gloves",
+        "shortDesc": "Traditional Moroccan exfoliating gloves — the ultimate hammam accessory.",
+        "content": "Kessa gloves are traditional Moroccan exfoliating gloves used after black soap in hammam rituals. They remove dead skin cells leaving skin smoother and softer. Perfect accessories for hammam kits and upsells. Lightweight, easy to ship, and available in various colors and textures."
+      },
+      {
+        "title": "Rose Water",
+        "shortDesc": "Pure Moroccan rose water — a gentle toner, mist and skincare essential.",
+        "content": "Moroccan rose water is a refreshing beauty essential used as a facial mist, toner, or mask mixer. It pairs perfectly with ghassoul clay, Nila powder, and Aker Fassi. Simple yet premium, it suits natural skincare lines, spa products, and clean beauty brands worldwide."
+      }
+    ]
+  },
+  "Blog": {
+    "badge": "Wholesale Guide",
+    "hero_title_part1": "Where to Buy Moroccan Beauty Products in Morocco:",
+    "hero_title_part2": "A Guide for Wholesale and Private Label Brands",
+    "author": "By Moroccan Cosmetic Products",
+    "read_time": "5 min read",
+    "intro_p1": "If you're looking for authentic Moroccan beauty products for wholesale, spa, or private label use, it can be challenging to find a trusted supplier.",
+    "intro_p2": "This guide will help you understand what to look for and where to source the best products directly from Morocco — certified, eco-friendly, and ready to sell.",
+    "intro_cta": "Get a Free Quote",
+    "popular_title_part1": "Why Moroccan Beauty Products Are",
+    "popular_title_part2": "Popular Worldwide",
+    "popular_p1": "Moroccan beauty products like argan oil, prickly pear seed oil, black soap, ghassoul clay, and rose water are globally recognized for their nourishing properties, natural origin, and eco-friendly production.",
+    "popular_p2": "For businesses, sourcing directly from reputable Moroccan suppliers ensures authentic, certified, and high-quality products. Certifications (ISO, ECOCERT, CoA, SDS) build trust and help comply with international standards.",
+    "products_title": "Our Product Range",
+    "products_subtitle": "All certified, eco-friendly, and ready-to-sell with worldwide shipping",
+    "products": [
+      {
+        "name": "Cosmetic Argan Oil"
+      },
+      {
+        "name": "Prickly Pear Seed Oil"
+      },
+      {
+        "name": "Moroccan Black Soap"
+      },
+      {
+        "name": "Ghassoul Clay"
+      },
+      {
+        "name": "Nila Powder"
+      },
+      {
+        "name": "Rose Water"
+      }
+    ],
+    "supplier_title_part1": "What to Look for in a",
+    "supplier_title_part2": "Moroccan Supplier",
+    "supplier_items": [
+      {
+        "title": "Product Authenticity",
+        "text": "100% Moroccan origin, cold-pressed, and organic where possible."
+      },
+      {
+        "title": "Certifications",
+        "text": "ISO, ECOCERT, CoA, and SDS — essential for private label and export."
+      },
+      {
+        "title": "Low MOQ",
+        "text": "Starting from 50 pieces so small brands can launch without big investment."
+      },
+      {
+        "title": "Ready-to-Sell",
+        "text": "Finished products with packaging, saving time for TikTok, Amazon, Shopify."
+      },
+      {
+        "title": "Eco-Friendly",
+        "text": "Sustainable and cruelty-free — increasingly valued by global customers."
+      }
+    ],
+    "where_title": "Where to Buy in Morocco",
+    "where_subtitle": "3 main sourcing options for businesses",
+    "where_items": [
+      {
+        "title": "Local Distributors",
+        "text": "Some wholesalers deliver directly and offer bulk orders for private label brands across Morocco."
+      },
+      {
+        "title": "Online Wholesale",
+        "text": "Reputable suppliers with certifications ship throughout Morocco and internationally for e-commerce."
+      },
+      {
+        "title": "Direct Manufacturer",
+        "text": "Working directly with manufacturers ensures competitive pricing and full control over quality."
+      }
+    ],
+    "wholesale_title_part1": "Benefits of Buying",
+    "wholesale_title_part2": "Wholesale",
+    "wholesale_items": [
+      {
+        "title": "Lower Costs",
+        "text": "Bulk orders reduce cost per unit significantly."
+      },
+      {
+        "title": "Consistent Supply",
+        "text": "Reliable suppliers ensure stock is always available."
+      },
+      {
+        "title": "Private Label",
+        "text": "Add your logo from MOQ 50 pieces."
+      },
+      {
+        "title": "Export Ready",
+        "text": "Certified products for international markets."
+      }
+    ],
+    "tips_title": "Tips for Selling Moroccan Products",
+    "tips": [
+      {
+        "num": "01",
+        "title": "Highlight Authenticity",
+        "text": "Showcase the Moroccan origin and certifications (ISO, ECOCERT) of your products to build trust."
+      },
+      {
+        "num": "02",
+        "title": "Bundle Products",
+        "text": "Combine black soap + Kessa gloves + ghassoul clay for spa kits that sell at a premium price."
+      },
+      {
+        "num": "03",
+        "title": "Use Social Media",
+        "text": "TikTok Shop and Instagram videos work extremely well for Moroccan beauty products."
+      },
+      {
+        "num": "04",
+        "title": "Educate Customers",
+        "text": "Blog posts and tutorials on product benefits increase trust and drive repeat sales."
+      },
+      {
+        "num": "05",
+        "title": "Private Label",
+        "text": "Encourage repeat orders by providing branded, ready-to-sell products under your own logo."
+      }
+    ],
+    "cta_title": "Ready to Source Premium Moroccan Beauty Products?",
+    "cta_text": "Moroccan Cosmetic Products delivers high-quality, certified Moroccan beauty products with MOQ 50 pieces — ready-to-sell for TikTok Shop, Amazon, Shopify, Etsy, spas, and local retail stores.",
+    "cta_contact": "Contact Us Today",
+    "cta_whatsapp": "WhatsApp Us"
+  },
+  "Contact": {
+    "hero_title_part1": "Get in",
+    "hero_title_part2": "Touch",
+    "hero_subtitle": "We are here to help you with wholesale orders, private label inquiries, and any questions about our premium Moroccan beauty products.",
+    "info_title": "Contact Information",
+    "info_subtitle": "Fill out the form and our team will get back to you within 24 hours.",
+    "phone_label": "Phone / WhatsApp",
+    "email_label": "Email Address",
+    "hq_label": "Headquarters",
+    "hq_address_line1": "Lot 377 N°3/6 sidi ghanem",
+    "hq_address_line2": "Zone industriel, 40110 Marrakesh",
+    "factory_label": "Factory Location",
+    "factory_text": "Our manufacturing facility is proudly located in Agadir, Morocco.",
+    "whatsapp_cta": "Chat on WhatsApp",
+    "form_name_label": "Full Name *",
+    "form_name_placeholder": "John Doe",
+    "form_email_label": "Email Address *",
+    "form_email_placeholder": "john@example.com",
+    "form_phone_label": "Phone Number",
+    "form_phone_placeholder": "+1 234 567 8900",
+    "form_company_label": "Company Name",
+    "form_company_placeholder": "Your Brand LLC",
+    "form_message_label": "Your Message *",
+    "form_message_placeholder": "Tell us about your needs (e.g., wholesale pricing, private label MOQ...)",
+    "form_submit": "Send Message",
+    "form_submitting": "Sending...",
+    "form_privacy": "Your information is secure and will only be used to respond to your inquiry.",
+    "success_title": "Message Sent!",
+    "success_text": "Thank you for reaching out. We have received your inquiry and will get back to you as soon as possible.",
+    "success_button": "Send Another Message"
+  },
+  "Meta": {
+    "home": {
+      "title": "Moroccan Cosmetics Wholesale | Private Label Morocco",
+      "description": "Buy Moroccan cosmetics in bulk: organic argan oil, black soap, rose water, ghassoul clay and natural oils for brands, spas and retailers.",
+      "keywords": "Moroccan beauty products wholesale, argan oil wholesale Morocco, prickly pear seed oil bulk, Moroccan black soap wholesale, ghassoul clay bulk, rose water Morocco, private label Moroccan cosmetics, Moroccan cosmetic manufacturer, bulk argan oil supplier, organic beauty products Morocco, Nila powder wholesale, Aker Fassi powder, Moroccan spa products wholesale, natural skincare Morocco, beauty supplier Morocco"
+    },
+    "about": {
+      "title": "About Us | Certified Organic Moroccan Beauty Products Wholesale and Manufacturer",
+      "description": "Learn about Moroccan Cosmetic Products in Agadir: leading wholesale exporter of certified organic argan oil, prickly pear seed oil, black soap and turnkey private label OEM/ODM for 50+ countries.",
+      "keywords": "Moroccan cosmetic manufacturer, certified organic beauty supplier Morocco, Agadir argan oil producer, women cooperatives fair trade, wholesale beauty manufacturer, ECOCERT organic cosmetics Morocco, ISO 22716 GMP, private label cosmetics OEM ODM, bulk argan oil supplier, Moroccan cosmetic products"
+    },
+    "contact": {
+      "title": "Contact Us | Moroccan Cosmetic Products",
+      "description": "Get in touch with Moroccan Cosmetic Products. We are ready to assist you with wholesale orders, private label inquiries, and premium Moroccan beauty products.",
+      "keywords": "contact Moroccan cosmetic supplier, wholesale quote argan oil, private label inquiry Morocco, bulk order beauty products, Moroccan organica contact, beauty products exporter Morocco"
+    },
+    "benefits": {
+      "title": "Benefits of Moroccan Beauty Products for Private Label Brands",
+      "description": "Discover the benefits of Moroccan beauty products for private label brands: argan oil, prickly pear seed oil, black soap, ghassoul, rose water, and more.",
+      "keywords": "benefits argan oil skin hair, Moroccan black soap benefits, prickly pear oil anti aging, ghassoul clay benefits, rose water toner benefits, private label beauty brand Morocco, organic skincare ingredients"
+    },
+    "blog": {
+      "title": "Where to Buy Moroccan Beauty Products in Morocco: Wholesale Guide",
+      "description": "A complete guide on where to buy authentic Moroccan beauty products in Morocco for wholesale, spa, and private label use. Tips on finding reliable suppliers.",
+      "keywords": "where to buy argan oil Morocco, Moroccan beauty products wholesale guide, buy black soap Morocco bulk, find cosmetic supplier Marrakech Agadir, authentic Moroccan beauty wholesale, spa products Morocco supplier"
+    }
+  },
+  "Footer": {
+    "description": "Moroccan Cosmetic Products is your trusted manufacturer and supplier of premium organic Moroccan beauty ingredients.",
+    "quick_links": "Quick Links",
+    "contact_info": "Contact Info",
+    "rights_reserved": "All rights reserved."
+  }
+}

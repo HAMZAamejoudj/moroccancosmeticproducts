@@ -1,0 +1,433 @@
+{
+  "Navbar": {
+    "home": "Accueil",
+    "about": "À Propos",
+    "benefits": "Avantages",
+    "blog": "Blog",
+    "contact": "Contact",
+    "whatsapp": "WhatsApp",
+    "language": "Langue"
+  },
+  "Hero": {
+    "badge": "Produits de Beauté Marocains 100% Naturels",
+    "title_part1": "Vous cherchez un fournisseur de",
+    "title_part2": "produits de beauté marocains de confiance ?",
+    "description": "Bienvenue chez Moroccan Cosmetic Products, votre source fiable pour les produits de beauté marocains de qualité supérieure en gros, conçus pour les spas, les marques et les détaillants du monde entier. Que vous recherchiez de l'huile d'argan en vrac, de l'huile de graines de figue de barbarie, du savon noir marocain ou des soins naturels de la peau, nous livrons des ingrédients authentiques, écologiques et certifiés directement du Maroc. Notre mission est simple : fournir des produits de haute qualité à des prix raisonnables, tout en aidant votre marque à prospérer sur le marché mondial de la beauté.",
+    "cta_shop": "Acheter Maintenant",
+    "cta_explore": "Explorer les Produits"
+  },
+  "WhyChooseUs": {
+    "badge": "Pourquoi Nous Choisir",
+    "title_part1": "Pourquoi Choisir",
+    "title_part2": "Moroccan Cosmetic Products",
+    "title_punct": " ?",
+    "features": [
+      {
+        "title": "Contrôle Total du Fabricant",
+        "desc": "Fabricant direct garantissant la pureté, l'authenticité et des prix de gros compétitifs sans intermédiaires."
+      },
+      {
+        "title": "Certifié et Digne de Confiance",
+        "desc": "Soutenu par les documentations ISO, ECOCERT, CoA et FDS, garantissant la sécurité et la conformité."
+      },
+      {
+        "title": "Solutions de Marque Blanche",
+        "desc": "Branding personnalisé, emballages et formulations sur mesure pour aider votre ligne de beauté à prospérer."
+      },
+      {
+        "title": "Écologique et Durable",
+        "desc": "Biologique, sans cruauté et sourcé de manière responsable en utilisant des méthodes d'extraction à froid et naturelles."
+      },
+      {
+        "title": "Expédition Globale et Logistique",
+        "desc": "Livraison mondiale sûre, fiable et rapide directement dans votre spa, magasin ou entrepôt."
+      }
+    ],
+    "footer_text": "Notre processus de fabrication directe nous permet d'offrir des prix raisonnables sur les commandes en gros, sans faire de compromis sur la pureté, la durabilité ou la certification. Nous rendons les produits de beauté marocains de qualité supérieure accessibles aux entreprises de toutes tailles.",
+    "badges": {
+      "products": "Produits",
+      "certified": "Certifié",
+      "compliant": "Conforme"
+    }
+  },
+  "Products": {
+    "badge": "Nos Produits",
+    "title_part1": "Nos Produits Organiques",
+    "title_part2": "du Maroc",
+    "description": "Nous proposons de l'Huile d'Argan cosmétique et alimentaire, de l'Huile de Graines de Figue de Barbarie, de la Poudre de Nila, de l'Aker Fassi, des Huiles Essentielles, du Savon Noir, du Savon Naturel, du Ghassoul, des Gants Kessa et de l'Eau de Rose. Chaque formule est certifiée, durable et efficace, conçue pour l'achat en gros et la marque blanche.",
+    "items": [
+      {
+        "title": "Huile d'Argan en Gros",
+        "desc": "100% pure, biologique et riche en nutriments. Parfaite pour les soins de la peau, des cheveux et les formulations cosmétiques."
+      },
+      {
+        "title": "Huile de Graines de Figue de Barbarie",
+        "desc": "Haute teneur en antioxydants, biologique et éco-certifiée. Idéale pour les sérums anti-âge et les huiles visage."
+      },
+      {
+        "title": "Savon Noir Marocain",
+        "desc": "Fabriqué selon des méthodes traditionnelles. Parfait pour l'exfoliation, la détoxification et les soins de spa régénérants."
+      },
+      {
+        "title": "Soins Naturels de la Peau",
+        "desc": "Des masques et sérums aux crèmes et lotions, combinant les ingrédients marocains avec la science moderne."
+      },
+      {
+        "title": "Ghassoul et Poudres Traditionnelles",
+        "desc": "Poudre de Nila, Aker Fassi et Argile Marocaine pour des masques authentiques et des soins de spa haut de gamme."
+      },
+      {
+        "title": "Eaux Florales et Accessoires",
+        "desc": "Eau de Rose de Damas pure, Eau de Fleur d'Oranger, Savons Naturels et Gants de Kessa."
+      }
+    ]
+  },
+  "Sustainability": {
+    "badge": "Notre Engagement",
+    "title_part1": "Durabilité &",
+    "title_part2": "Responsabilité Sociale",
+    "certifications_title": "Des Certifications qui Comptent",
+    "certifications_desc": "Nous savons que les acheteurs internationaux accordent une grande importance à la confiance et à la transparence. C'est pourquoi chaque produit est soutenu par :",
+    "certifications_list": [
+      "ISO – Normes de qualité internationales",
+      "ECOCERT – Certification biologique pour un approvisionnement durable",
+      "CoA – Garantie de pureté et de qualité",
+      "FDS – Conformité en matière de sécurité et de manipulation"
+    ],
+    "certifications_footer": "Ces certifications font de Moroccan Cosmetic Products un partenaire fiable pour les marques du monde entier.",
+    "pricing_title": "Des Prix Abordables Sans Compromis",
+    "pricing_desc": "La qualité n'a pas à être hors de prix. Notre processus de fabrication directe nous permet de proposer des tarifs raisonnables sur les commandes en gros, sans compromis sur la pureté, la durabilité ou la certification. Nous rendons les cosmétiques marocains accessibles à tous.",
+    "quote": "Préserver l'héritage, autonomiser les communautés."
+  },
+  "Shop": {
+    "badge": "Boutique en Ligne",
+    "title_part1": "Pourquoi les",
+    "title_part2": "Ingrédients Marocains",
+    "title_punct": " ?",
+    "description": "Le Maroc est mondialement réputé pour ses ingrédients uniques et riches en nutriments. En nous approvisionnant directement, nous préservons l'authenticité. Moroccan Cosmetic Products simplifie le développement de votre marque :",
+    "bullets": [
+      "Commandes en Gros – Commandez facilement les quantités dont vous avez besoin",
+      "Marque Blanche – Personnalisez le branding pour votre gamme de produits",
+      "Livraison Mondiale – Recevez vos produits partout, à temps",
+      "Qualité Certifiée – ISO, ECOCERT, CoA et FDS garantis"
+    ],
+    "footer_bold": "Contactez-nous dès aujourd'hui et découvrez le meilleur de la beauté marocaine avec un fournisseur fiable et écologique.",
+    "cta_whatsapp": "WhatsApp",
+    "cta_email": "Écrivez-nous",
+    "happy_customers": "Clients Satisfaits"
+  },
+  "About": {
+    "hero_title_part1": "À Propos de",
+    "hero_title_part2": "Moroccan Cosmetic Products",
+    "hero_subtitle": "Votre fabricant et fournisseur de confiance de produits de beauté marocains",
+    "intro_badge": "Qui Sommes-Nous",
+    "intro_title_part1": "Passionnés par",
+    "intro_title_part2": "la Beauté Authentique",
+    "intro_text": "Chez Moroccan Cosmetic Products, nous sommes passionnés par l'apport des meilleurs produits de beauté marocains aux entreprises, spas et marques du monde entier. Forts de décennies d'expérience en fabrication, approvisionnement et contrôle qualité, nous sommes spécialisés dans les solutions en gros et en marque blanche pour un usage professionnel.",
+    "mission_title": "Notre Mission",
+    "mission_text": "Nous visons à fournir des ingrédients marocains authentiques, écologiques et premium qui permettent aux marques de beauté et aux entreprises de bien-être de prospérer à l'échelle mondiale. Notre objectif est de combiner durabilité et production de haute qualité, en garantissant que chaque produit est efficace, certifié et sûr pour vos clients et l'environnement.",
+    "offer_title_part1": "Ce Que Nous",
+    "offer_title_part2": "Proposons",
+    "offers": [
+      {
+        "title": "Ingrédients Marocains Premium",
+        "desc": "Huile d'argan, huile de figue de barbarie, savon noir marocain et produits de soins naturels."
+      },
+      {
+        "title": "Commandes en Gros et Marque Blanche",
+        "desc": "Des solutions flexibles pour les spas, détaillants et marques souhaitant se développer avec qualité."
+      },
+      {
+        "title": "Expédition Mondiale",
+        "desc": "Livraison rapide, fiable et sécurisée partout dans le monde."
+      },
+      {
+        "title": "Qualité Certifiée",
+        "desc": "Tous les produits sont soutenus par les certifications ISO, ECOCERT, CoA et FDS. Approuvé ONSSA."
+      }
+    ],
+    "why_title_part1": "Pourquoi",
+    "why_title_part2": "Nous Choisir ?",
+    "reasons": [
+      {
+        "title": "Fabrication Directe",
+        "desc": "De l'approvisionnement à l'emballage, nous maintenons un contrôle total sur la qualité des produits."
+      },
+      {
+        "title": "Durabilité",
+        "desc": "Nos produits sont biologiques, sans cruauté et écologiques, fabriqués selon des méthodes traditionnelles et modernes."
+      },
+      {
+        "title": "Branding Personnalisé",
+        "desc": "Les services de marque blanche permettent à votre marque de briller avec logos, emballages et formules sur mesure."
+      },
+      {
+        "title": "Support Expert",
+        "desc": "Notre équipe vous guide dans la sélection des produits, les certifications et l'expédition pour une expérience d'achat fluide."
+      }
+    ],
+    "vision_title": "Notre Vision",
+    "vision_text": "Nous envisageons un monde où les produits de beauté marocains sont reconnus mondialement pour leur pureté, leur efficacité et leur durabilité. En partenariat avec Moroccan Cosmetic Products, les marques et spas peuvent offrir des solutions de soins marocaines authentiques de haute qualité tout en soutenant des pratiques éthiques et écologiques.",
+    "network_title": "Rejoignez Notre Réseau",
+    "network_text": "Que vous soyez un spa, une marque de beauté ou un détaillant, Moroccan Cosmetic Products fournit les produits fiables, certifiés dont vous avez besoin pour développer votre activité.",
+    "cta": "Contactez-Nous Aujourd'hui"
+  },
+  "Benefits": {
+    "badge": "Grossiste et Marque Blanche",
+    "hero_title_part1": "Avantages des",
+    "hero_title_part2": "Produits de Beauté Marocains pour les Marques Privées",
+    "intro_p1": "Vous recherchez des produits de beauté marocains naturels pour votre marque, votre spa ou votre boutique en ligne ? Notre collection comprend l'huile d'argan cosmétique, l'huile de figue de barbarie, la poudre de Nila, l'Aker Fassi, le savon noir marocain, le savon naturel, l'argile ghassoul, les gants Kessa et l'eau de rose.",
+    "intro_p2": "Les ingrédients de beauté marocains sont appréciés pour leur origine naturelle, leur usage traditionnel et leur haute qualité cosmétique — idéaux pour les soins écologiques, les produits hammam, les rituels spa et les collections clean beauty.",
+    "card_cta": "Demander un Devis Grossiste",
+    "outro_title": "Créez Votre Marque de Beauté Marocaine en Marque Blanche",
+    "outro_p1": "Moroccan Cosmetic Products aide les entreprises à créer des produits de beauté marocains prêts à la vente en marque blanche et en gros. Avec un MOQ bas à partir de 50 pièces, vous pouvez ajouter votre logo, personnaliser votre emballage et lancer vos produits sur TikTok Shop, Amazon, Shopify, Etsy ou votre propre boutique en ligne.",
+    "outro_p2": "Nos produits sont idéaux pour les marques de beauté, les spas, les détaillants, les entreprises de bien-être et les vendeurs e-commerce à la recherche de produits cosmétiques marocains authentiques en gros. Nous proposons des produits certifiés, une expédition mondiale, des prix raisonnables et un accompagnement professionnel pour votre projet de marque blanche.",
+    "cta_box_title": "Vous Cherchez un Fournisseur Marocain de Confiance ?",
+    "cta_box_text": "Si vous recherchez un fournisseur marocain fiable pour des produits de beauté en marque blanche, nous sommes prêts à vous aider. Choisissez vos produits, ajoutez votre logo, préparez votre emballage et commencez à vendre des produits de beauté marocains premium sous votre propre marque.",
+    "cta_button": "Lancez Votre Projet de Marque Blanche",
+    "items": [
+      {
+        "title": "Huile d'Argan Cosmétique",
+        "shortDesc": "L'or liquide du Maroc — riche en vitamine E et acides gras pour la peau et les cheveux.",
+        "content": "L'huile d'argan cosmétique est riche en vitamine E, en acides gras essentiels et en composés nourrissants idéaux pour les soins de la peau et des cheveux. Légère et polyvalente, elle convient aux huiles visage, sérums capillaires, huiles de massage et formules de soins haut de gamme. Parfaite pour les marques privées ciblant la beauté naturelle et les cosmétiques d'inspiration marocaine."
+      },
+      {
+        "title": "Huile d'Argan Alimentaire",
+        "shortDesc": "Huile d'argan culinaire premium au goût noisette riche et aux acides gras naturels.",
+        "content": "L'huile d'argan alimentaire utilise des amandes d'argan torréfiées, offrant un goût noisette riche. Idéale pour les marques gourmet, les boutiques bien-être et les magasins bio. Utilisable dans les salades, les trempettes et les recettes marocaines traditionnelles. Parfaite pour les entreprises de marque blanche entrant sur le marché alimentaire et bien-être."
+      },
+      {
+        "title": "Huile de Graines de Figue de Barbarie",
+        "shortDesc": "Huile ultra-luxueuse et rare, chargée d'antioxydants et de vitamine E.",
+        "content": "L'huile de figue de barbarie est l'une des huiles les plus luxueuses du Maroc. Légère mais profondément nourrissante, elle est parfaite pour les huiles visage premium, les sérums anti-âge, les soins des yeux et les soins haut de gamme. Sa forte valeur perçue en fait un excellent choix pour les marques privées visant un positionnement premium."
+      },
+      {
+        "title": "Poudre de Nila",
+        "shortDesc": "Poudre bleue marocaine traditionnelle pour masques visage et rituels éclat.",
+        "content": "La poudre de Nila est un ingrédient de beauté marocain traditionnel à la couleur bleue saisissante, utilisé dans les rituels hammam et soins de la peau. Elle rafraîchit la peau et favorise un teint lumineux. Sa couleur unique la rend idéale pour TikTok, Instagram et les plateformes e-commerce."
+      },
+      {
+        "title": "Aker Fassi",
+        "shortDesc": "Poudre de beauté marocaine rouge profond — teint naturel lèvres, joues et masque.",
+        "content": "L'Aker Fassi est fabriqué à partir de fleur de pavot et d'écorce de grenade. Sa couleur rouge profonde naturelle relie la beauté à la tradition marocaine. Parfait comme teint naturel pour les lèvres, les joues ou comme ingrédient de masque. Très visuel pour le marketing sur les réseaux sociaux et les kits rituels de beauté marocaine."
+      },
+      {
+        "title": "Savon Noir Marocain",
+        "shortDesc": "La pierre angulaire de chaque rituel hammam — pâte d'olive nettoyante profonde.",
+        "content": "Le savon noir marocain est essentiel pour le rituel hammam traditionnel. Fabriqué à base d'olive avec une texture de pâte douce, il prépare la peau à l'exfoliation avec un gant Kessa. Idéal pour les spas, les marques de soins corporels et les collections produits hammam. Vendu en pots, tubes ou en vrac."
+      },
+      {
+        "title": "Savon Naturel",
+        "shortDesc": "Savons marocains personnalisables à l'huile d'argan, rose, ghassoul et plus.",
+        "content": "Les savons marocains naturels sont fabriqués avec de l'huile d'argan, de l'huile d'olive, de la rose, de la lavande, du ghassoul, du miel ou des huiles essentielles. Faciles à marquer et emballer, ils conviennent à Amazon, Shopify, TikTok Shop, aux spas et aux boutiques cadeaux. Idéaux pour les marques écologiques avec des options d'emballage sans plastique."
+      },
+      {
+        "title": "Argile Ghassoul",
+        "shortDesc": "Argile marocaine riche en minéraux pour un nettoyage profond peau et cheveux.",
+        "content": "L'argile ghassoul (Rhassoul) est une argile marocaine naturelle appréciée pour ses propriétés nettoyantes et absorbantes. Utilisée comme masque visage, masque capillaire ou masque corporel. Disponible en poudre, pâte ou formule. Parfaite pour les soins spa, les produits hammam et les marques de soins naturels."
+      },
+      {
+        "title": "Gants Kessa",
+        "shortDesc": "Gants exfoliants marocains traditionnels — l'accessoire hammam ultime.",
+        "content": "Les gants Kessa sont des gants exfoliants marocains traditionnels utilisés après le savon noir dans les rituels hammam. Ils éliminent les cellules mortes laissant la peau plus lisse et plus douce. Accessoires parfaits pour les kits hammam et les ventes additionnelles. Légers, faciles à expédier et disponibles en diverses couleurs et textures."
+      },
+      {
+        "title": "Eau de Rose",
+        "shortDesc": "Eau de rose marocaine pure — tonique doux, brume et essentiel des soins.",
+        "content": "L'eau de rose marocaine est un essentiel de beauté rafraîchissant utilisé comme brume visage, tonique ou mélangeur de masque. Elle s'associe parfaitement à l'argile ghassoul, à la poudre de Nila et à l'Aker Fassi. Simple mais premium, elle convient aux lignes de soins naturels, aux produits spa et aux marques clean beauty dans le monde entier."
+      }
+    ]
+  },
+  "Blog": {
+    "badge": "Guide Grossiste",
+    "hero_title_part1": "Où Acheter des Produits de Beauté Marocains au Maroc :",
+    "hero_title_part2": "Un Guide pour les Marques en Gros et Marque Blanche",
+    "author": "Par Moroccan Cosmetic Products",
+    "read_time": "5 min de lecture",
+    "intro_p1": "Si vous recherchez des produits de beauté marocains authentiques pour le grossiste, les spas ou la marque blanche, il peut être difficile de trouver un fournisseur de confiance.",
+    "intro_p2": "Ce guide vous aidera à comprendre ce qu'il faut rechercher et où sourcer les meilleurs produits directement du Maroc — certifiés, écologiques et prêts à la vente.",
+    "intro_cta": "Obtenir un Devis Gratuit",
+    "popular_title_part1": "Pourquoi les Produits de Beauté Marocains Sont",
+    "popular_title_part2": "Populaires dans le Monde",
+    "popular_p1": "Les produits de beauté marocains comme l'huile d'argan, l'huile de figue de barbarie, le savon noir, l'argile ghassoul et l'eau de rose sont reconnus mondialement pour leurs propriétés nourrissantes, leur origine naturelle et leur production écologique.",
+    "popular_p2": "Pour les entreprises, s'approvisionner directement auprès de fournisseurs marocains réputés garantit des produits authentiques, certifiés et de haute qualité. Les certifications (ISO, ECOCERT, CoA, FDS) renforcent la confiance et aident à respecter les normes internationales.",
+    "products_title": "Notre Gamme de Produits",
+    "products_subtitle": "Tous certifiés, écologiques et prêts à la vente avec expédition mondiale",
+    "products": [
+      {
+        "name": "Huile d'Argan Cosmétique"
+      },
+      {
+        "name": "Huile de Graines de Figue de Barbarie"
+      },
+      {
+        "name": "Savon Noir Marocain"
+      },
+      {
+        "name": "Argile Ghassoul"
+      },
+      {
+        "name": "Poudre de Nila"
+      },
+      {
+        "name": "Eau de Rose"
+      }
+    ],
+    "supplier_title_part1": "Ce Qu'il Faut Rechercher chez un",
+    "supplier_title_part2": "Fournisseur Marocain",
+    "supplier_items": [
+      {
+        "title": "Authenticité des Produits",
+        "text": "Origine 100% marocaine, pression à froid et biologique lorsque possible."
+      },
+      {
+        "title": "Certifications",
+        "text": "ISO, ECOCERT, CoA et FDS — essentiels pour la marque blanche et l'export."
+      },
+      {
+        "title": "MOQ Bas",
+        "text": "À partir de 50 pièces pour que les petites marques puissent se lancer sans gros investissement."
+      },
+      {
+        "title": "Prêts à la Vente",
+        "text": "Produits finis avec emballage, gain de temps pour TikTok, Amazon, Shopify."
+      },
+      {
+        "title": "Écologique",
+        "text": "Durable et sans cruauté — de plus en plus valorisé par les clients mondiaux."
+      }
+    ],
+    "where_title": "Où Acheter au Maroc",
+    "where_subtitle": "3 principales options d'approvisionnement pour les entreprises",
+    "where_items": [
+      {
+        "title": "Distributeurs Locaux",
+        "text": "Certains grossistes livrent directement et proposent des commandes en gros pour les marques privées à travers le Maroc."
+      },
+      {
+        "title": "Grossiste en Ligne",
+        "text": "Des fournisseurs réputés avec certifications expédient partout au Maroc et à l'international pour l'e-commerce."
+      },
+      {
+        "title": "Fabricant Direct",
+        "text": "Travailler directement avec les fabricants garantit des prix compétitifs et un contrôle total sur la qualité."
+      }
+    ],
+    "wholesale_title_part1": "Avantages d'Acheter en",
+    "wholesale_title_part2": "Gros",
+    "wholesale_items": [
+      {
+        "title": "Coûts Réduits",
+        "text": "Les commandes en gros réduisent significativement le coût par unité."
+      },
+      {
+        "title": "Approvisionnement Fiable",
+        "text": "Des fournisseurs fiables garantissent un stock toujours disponible."
+      },
+      {
+        "title": "Marque Blanche",
+        "text": "Ajoutez votre logo dès 50 pièces MOQ."
+      },
+      {
+        "title": "Prêt à l'Export",
+        "text": "Produits certifiés pour les marchés internationaux."
+      }
+    ],
+    "tips_title": "Conseils pour Vendre des Produits Marocains",
+    "tips": [
+      {
+        "num": "01",
+        "title": "Mettre en Avant l'Authenticité",
+        "text": "Mettez en valeur l'origine marocaine et les certifications (ISO, ECOCERT) de vos produits pour instaurer la confiance."
+      },
+      {
+        "num": "02",
+        "title": "Créer des Bundles",
+        "text": "Combinez savon noir + gants Kessa + argile ghassoul pour des kits spa vendus à prix premium."
+      },
+      {
+        "num": "03",
+        "title": "Utiliser les Réseaux Sociaux",
+        "text": "TikTok Shop et les vidéos Instagram fonctionnent extrêmement bien pour les produits de beauté marocains."
+      },
+      {
+        "num": "04",
+        "title": "Éduquer les Clients",
+        "text": "Les articles de blog et tutoriels sur les bienfaits des produits renforcent la confiance et stimulent les ventes récurrentes."
+      },
+      {
+        "num": "05",
+        "title": "Marque Blanche",
+        "text": "Encouragez les commandes répétées en proposant des produits brandés et prêts à vendre sous votre propre logo."
+      }
+    ],
+    "cta_title": "Prêt à Sourcer des Produits de Beauté Marocains Premium ?",
+    "cta_text": "Moroccan Cosmetic Products livre des produits de beauté marocains certifiés de haute qualité avec un MOQ de 50 pièces — prêts à vendre pour TikTok Shop, Amazon, Shopify, Etsy, les spas et les magasins locaux.",
+    "cta_contact": "Contactez-Nous Aujourd'hui",
+    "cta_whatsapp": "WhatsApp"
+  },
+  "Contact": {
+    "hero_title_part1": "Contactez",
+    "hero_title_part2": "Nous",
+    "hero_subtitle": "Nous sommes là pour vous aider avec vos commandes en gros, vos demandes de marque blanche et toutes vos questions sur nos produits de beauté marocains premium.",
+    "info_title": "Informations de Contact",
+    "info_subtitle": "Remplissez le formulaire et notre équipe vous répondra sous 24 heures.",
+    "phone_label": "Téléphone / WhatsApp",
+    "email_label": "Adresse E-mail",
+    "hq_label": "Siège Social",
+    "hq_address_line1": "Lot 377 N°3/6 sidi ghanem",
+    "hq_address_line2": "Zone industriel, 40110 Marrakech",
+    "factory_label": "Emplacement de l'Usine",
+    "factory_text": "Notre unité de fabrication est fièrement située à Agadir, Maroc.",
+    "whatsapp_cta": "Discuter sur WhatsApp",
+    "form_name_label": "Nom Complet *",
+    "form_name_placeholder": "Jean Dupont",
+    "form_email_label": "Adresse E-mail *",
+    "form_email_placeholder": "jean@exemple.com",
+    "form_phone_label": "Numéro de Téléphone",
+    "form_phone_placeholder": "+33 6 12 34 56 78",
+    "form_company_label": "Nom de l'Entreprise",
+    "form_company_placeholder": "Votre Marque SARL",
+    "form_message_label": "Votre Message *",
+    "form_message_placeholder": "Parlez-nous de vos besoins (ex. : tarifs grossiste, MOQ marque blanche...)",
+    "form_submit": "Envoyer le Message",
+    "form_submitting": "Envoi en cours...",
+    "form_privacy": "Vos informations sont sécurisées et ne seront utilisées que pour répondre à votre demande.",
+    "success_title": "Message Envoyé !",
+    "success_text": "Merci de nous avoir contactés. Nous avons bien reçu votre demande et vous répondrons dès que possible.",
+    "success_button": "Envoyer un Autre Message"
+  },
+  "Meta": {
+    "home": {
+      "title": "Cosmétiques Marocains en Gros | Marque Blanche Maroc",
+      "description": "Achetez des cosmétiques marocains en gros : huile d'argan bio, savon noir, eau de rose, ghassoul et huiles naturelles pour marques, spas et revendeurs.",
+      "keywords": "produits de beauté marocains en gros, huile d'argan en gros Maroc, huile de figue de barbarie grossiste, savon noir marocain en gros, ghassoul en gros, eau de rose marocaine, marque blanche cosmétiques maroc, fabricant cosmétiques maroc, fournisseur beauté marocaine, poudre Nila grossiste, poudre Aker Fassi, produits spa maroc en gros, soins naturels maroc, exportateur cosmétiques bio"
+    },
+    "about": {
+      "title": "À Propos | Fabricant et Exportateur Grossiste Cosmétiques Bio Maroc",
+      "description": "Découvrez Moroccan Cosmetic Products à Agadir : exportateur grossiste certifié d'huile d'argan bio, huile de figue de barbarie, savon noir et solutions marque blanche pour plus de 50 pays.",
+      "keywords": "fabricant cosmétiques maroc, fournisseur beauté bio maroc, producteur huile argan agadir, coopératives féminines commerce équitable, grossiste cosmétiques naturels, argan certifié ECOCERT, ISO 22716 BPF, marque blanche cosmétiques OEM ODM, exportateur beauté maroc"
+    },
+    "contact": {
+      "title": "Contactez-Nous | Moroccan Cosmetic Products",
+      "description": "Contactez Moroccan Cosmetic Products. Nous sommes prêts à vous aider avec vos commandes en gros, vos demandes de marque blanche et vos produits de beauté marocains premium.",
+      "keywords": "contact fournisseur cosmétiques maroc, devis huile argan en gros, demande marque blanche maroc, commande produits beauté en gros, exportateur cosmétiques maroc"
+    },
+    "benefits": {
+      "title": "Avantages des Produits de Beauté Marocains pour les Marques Privées",
+      "description": "Découvrez les avantages des produits de beauté marocains pour les marques privées : huile d'argan, huile de figue de barbarie, savon noir, ghassoul, eau de rose, et plus.",
+      "keywords": "bienfaits huile argan peau cheveux, avantages savon noir marocain, huile figue barbarie anti-âge, bienfaits ghassoul, eau de rose tonique, marque privée beauté maroc, ingrédients cosmétiques bio"
+    },
+    "blog": {
+      "title": "Où Acheter des Produits de Beauté Marocains au Maroc : Guide Grossiste",
+      "description": "Un guide complet pour acheter des produits de beauté marocains authentiques au Maroc en gros, pour spas et marques privées. Conseils pour trouver des fournisseurs fiables.",
+      "keywords": "où acheter huile argan Maroc, guide grossiste beauté marocaine, acheter savon noir en gros Maroc, fournisseur cosmétiques Marrakech Agadir, produits beauté authentiques maroc, spa produits maroc grossiste"
+    }
+  },
+  "Footer": {
+    "description": "Moroccan Cosmetic Products est votre fabricant et fournisseur de confiance pour des ingrédients cosmétiques marocains bio de qualité supérieure.",
+    "quick_links": "Liens Rapides",
+    "contact_info": "Contact",
+    "rights_reserved": "Tous droits réservés."
+  }
+}
